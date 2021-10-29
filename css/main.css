@@ -16,7 +16,7 @@ a {
     color: #ff6421;
 }
 a:hover {
-    text-decoration-color: pink;
+    background-color: pink;
 }
 h1 {
     font-size: 3em;
