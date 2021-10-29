@@ -42,8 +42,10 @@ ul.posts li {
     list-style: none;
 }
 
-table, th, td {
-    border: 1px solid black;
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
 }
 
 th, td {
